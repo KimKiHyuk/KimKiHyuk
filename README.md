@@ -3,7 +3,7 @@
 #### Enjoy learning new things!
 
 ### 💻 Work Experience
-* Security Endpoint Solution Developer - Republic of Korea Cyber Command
+* Endpoint Security Solution Developer - Republic of Korea Cyber Command
 * Web crawler developer - Fetching
 
 ### 🎓 Education
