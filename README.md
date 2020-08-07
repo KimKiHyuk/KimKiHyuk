@@ -1,16 +1,20 @@
-### Hi there 👋
+### Key Kim - Software Developer
 
-<!--
-**KimKiHyuk/KimKiHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Enjoy learning new things!
 
-Here are some ideas to get you started:
+### 💻 Work Experience
+* Security Endpoint Solution Developer - Republic of Korea Cyber Command
+* Web crawler developer - Fetching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+* Hallym university in South Korea
+* Griffith Univerity in australia
+* Software Maestro 8TH 
+* Best of the BEST 9TH
+
+
+### Resume
+📃 Resume(KOR) - https://www.notion.so/7633695417d8400782e387c863eaa97b
+
+### Linked-in
+👔 Linked-in(KOR) - https://www.linkedin.com/in/kihyuk-kim
