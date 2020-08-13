@@ -3,14 +3,15 @@
 #### Enjoy learning new things!
 
 ### 💻 Work Experience
-* Endpoint Security Solution Developer - Republic of Korea Cyber Command
+* between jobs (🔍 💼)
 * Web crawler developer - Fetching
+* Endpoint Security Solution Developer - Republic of Korea Cyber Command
 
 ### 🎓 Education
-* Hallym university in South Korea
-* Griffith Univerity in australia
+* BEST of the BEST 9TH
 * Software Maestro 8TH 
-* Best of the BEST 9TH
+* Griffith Univerity in australia
+* Hallym university in South Korea
 
 
 ### Resume
