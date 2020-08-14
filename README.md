@@ -1,3 +1,4 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KimKiHyuk)
 ### Key Kim - Software Developer
 
 #### Enjoy learning new things!
