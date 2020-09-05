@@ -9,10 +9,10 @@
 * Endpoint Security Solution Developer - Republic of Korea Cyber Command
 
 ### 🎓 Education
-* BEST of the BEST 9TH
-* Software Maestro 8TH 
-* Griffith Univerity in australia
-* Hallym university in South Korea
+* BEST of the BEST 9th **[Cyber Security]**
+* Software Maestro 8th  **[Computer science]**
+* Griffith Univerity Gold Coast campus in Australia **[Game AI Course]**
+* Hallym University in South Korea **[B.S in Computer Science]**
 
 
 ### Resume
