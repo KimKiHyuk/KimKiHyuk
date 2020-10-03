@@ -1,12 +1,13 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KimKiHyuk)
 ### Key Kim - Software Developer
-
+* contact : keyhyuk.kim@gmail.com
 #### Enjoy learning new things!
 
 ### 💻 Work Experience
 * between jobs (🔍 💼)
-* Web crawler developer - Fetching
-* Endpoint Security Solution Developer - Republic of Korea Cyber Command
+* Flutter Mobile App developer - Mycampus (freelancer)  *2020.04 ~ 2020.07*
+* Python crawler, backend developer - Fetching (freelancer)  *2019.12 ~ 2020.05*
+* C#, .NET Client developer - Republic of Korea Cyber Command (sergeant) *2018.03 ~ 2019.10*
 
 ### 🎓 Education
 * BEST of the BEST 9th **[Cyber Security]**
