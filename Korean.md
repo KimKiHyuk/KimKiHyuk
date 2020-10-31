@@ -88,7 +88,7 @@ Email: keyhyuk.kim@gmail.com
     - 백엔드 서비스와 연동 및 앱에서 사용자 인증 로직 구현
 - 포트폴리오 (아래 프로젝트를 클릭하면 상세페이지로 이동합니다)
 
-    [매장 주문 관리 모바일 앱]("포트폴리오/매장 주문 관리 모바일 앱 e4bed09b6b534d68b61bf3387f71534c.md")
+    [매장 주문 관리 모바일 앱](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EB%A7%A4%EC%9E%A5%20%EC%A3%BC%EB%AC%B8%20%EA%B4%80%EB%A6%AC%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20e4bed09b6b534d68b61bf3387f71534c.md)
 
 > **(주) Fetching (프리랜서) - Backend 개발**
 
@@ -103,7 +103,7 @@ Email: keyhyuk.kim@gmail.com
     - 기존 시스템과 Scrapy 프레임워크 통합
 - 포트폴리오 (아래 프로젝트를 클릭하면 상세페이지로 이동합니다)
 
-    [최저가 상품 검색을 위한 백엔드 개발](%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%B5%E1%84%92%E1%85%A7%E1%86%A8%20808e53ce5c8640c98f7ffe57e46ed252/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%201a18c4400ffe49e59e641679b4727f09/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A5%E1%84%80%E1%85%A1%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%2012d314399f2b472dbc1a4789334201c0.md)
+    [최저가 상품 검색을 위한 백엔드 개발](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%B5%9C%EC%A0%80%EA%B0%80%20%EC%83%81%ED%92%88%20%EA%B2%80%EC%83%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%2012d314399f2b472dbc1a4789334201c0.md)
 
 > **국군사이버사령부 (SW개발병) - PC 클라이언트 개발**
 
@@ -118,7 +118,7 @@ Email: keyhyuk.kim@gmail.com
     - 미니필터 커널 드라이버 유지보수
 - 포트폴리오 (아래 프로젝트를 클릭하면 상세페이지로 이동합니다)
 
-    [윈도우 엔드포인트 보안 소프트웨어](%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%B5%E1%84%92%E1%85%A7%E1%86%A8%20808e53ce5c8640c98f7ffe57e46ed252/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%201a18c4400ffe49e59e641679b4727f09/%E1%84%8B%E1%85%B1%E1%86%AB%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE%20%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%E1%84%91%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%2007691d3c56564cb8a800fee090678875.md)
+    [윈도우 엔드포인트 보안 소프트웨어](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%9C%88%EB%8F%84%EC%9A%B0%20%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EB%B3%B4%EC%95%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%2007691d3c56564cb8a800fee090678875.md)
 
 > **한림대학교 운영체제 연구실 (학부연구생)**
 
@@ -131,11 +131,11 @@ Email: keyhyuk.kim@gmail.com
     - Android 파일관리자 응용어플리케이션 개발
 - 포트폴리오 (아래 프로젝트를 클릭하면 상세페이지로 이동합니다)
 
-    [Opencv 가위바위보 모바일 게임](%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%B5%E1%84%92%E1%85%A7%E1%86%A8%20808e53ce5c8640c98f7ffe57e46ed252/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%201a18c4400ffe49e59e641679b4727f09/Opencv%20%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B1%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B1%E1%84%87%E1%85%A9%20%E1%84%86%E1%85%A9%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%203109e5bb444443ffb38f0bd7021e34cd.md)
+    [Opencv 가위바위보 모바일 게임](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/Opencv%20%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EA%B2%8C%EC%9E%84%203109e5bb444443ffb38f0bd7021e34cd.md)
 
-    [안드로이드 파일관리 매니저](%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%B5%E1%84%92%E1%85%A7%E1%86%A8%20808e53ce5c8640c98f7ffe57e46ed252/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%201a18c4400ffe49e59e641679b4727f09/%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%A2%E1%84%82%E1%85%B5%E1%84%8C%E1%85%A5%202b4e64cb34194e9aaeee69881f85bbfd.md)
+    [안드로이드 파일관리 매니저](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%8C%8C%EC%9D%BC%EA%B4%80%EB%A6%AC%20%EB%A7%A4%EB%8B%88%EC%A0%80%202b4e64cb34194e9aaeee69881f85bbfd.md)
 
-    [손가락을 이용한 에어 마우스](%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%B5%E1%84%92%E1%85%A7%E1%86%A8%20808e53ce5c8640c98f7ffe57e46ed252/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%201a18c4400ffe49e59e641679b4727f09/%E1%84%89%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A1%E1%84%85%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%A5%20%E1%84%86%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%20aab562ab4ea84767907f7968b9994149.md)
+    [손가락을 이용한 에어 마우스](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%97%90%EC%96%B4%20%EB%A7%88%EC%9A%B0%EC%8A%A4%20aab562ab4ea84767907f7968b9994149.md)
 
 ---
 
@@ -165,22 +165,29 @@ Email: keyhyuk.kim@gmail.com
 ---
 
 ## 📘포트폴리오
-* 윈도우 엔드포인트 보안 솔루션 
-* 최저가 상품 검색 서비스
-* 매장 주문 관리 모바일 어플리케이션
-* 넷플릭스 계정 관리 모바일 어플리케이션
-* 게시판 푸시알람 구독 서비스
-* 개인 이력서 웹페이지
-*
-* 
-
-
+* [윈도우 엔드포인트 보안 솔루션](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%9C%88%EB%8F%84%EC%9A%B0%20%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EB%B3%B4%EC%95%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%2007691d3c56564cb8a800fee090678875.md)
+* [최저가 상품 검색 서비스](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%B5%9C%EC%A0%80%EA%B0%80%20%EC%83%81%ED%92%88%20%EA%B2%80%EC%83%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%2012d314399f2b472dbc1a4789334201c0.md)
+* [매장 주문 관리 모바일 어플리케이션](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EB%A7%A4%EC%9E%A5%20%EC%A3%BC%EB%AC%B8%20%EA%B4%80%EB%A6%AC%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20e4bed09b6b534d68b61bf3387f71534c.md)
+* [넷플릭스 계정 관리 모바일 어플리케이션](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%20%EA%B3%84%EC%A0%95%20%EA%B3%B5%EC%9C%A0%20Android%20%EC%95%B1%20a66f25e675e1454594c40d283c116960.md)
+* [게시판 푸시알람 구독 서비스](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C%20%EA%B5%AC%EB%8F%85%20%EC%84%9C%EB%B9%84%EC%8A%A4%2034478a503ca046e3b13def4093389b3c.md)
+* [개인 이력서 웹페이지](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EA%B0%9C%EC%9D%B8%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%9B%B9%20%ED%8E%98%EC%9D%B4%EC%A7%80%20c36ae9b9e9204db69b4750c2cd96d80b.md)
+* [의료처방전 관리 시스템](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%9D%98%EB%A3%8C%EC%B2%98%EB%B0%A9%EC%A0%84%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%2002d1b8d562484eb7acf6f526e89d099d.md)
+* [쿠버네티스 Hyper-v 클러스터 구축]()
+* [Opencv 가위바위보 모바일 게임](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20Hyper-v%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EA%B5%AC%EC%B6%95%20d7b45eae68a74cd384d4346cbe0c0f98.md)
+* [안드로이드 파일관리 매니저](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%8C%8C%EC%9D%BC%EA%B4%80%EB%A6%AC%20%EB%A7%A4%EB%8B%88%EC%A0%80%202b4e64cb34194e9aaeee69881f85bbfd.md)
+* [Opencv 손가락을 이용한 에어마우스](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%97%90%EC%96%B4%20%EB%A7%88%EC%9A%B0%EC%8A%A4%20aab562ab4ea84767907f7968b9994149.md)
 ---
 
-## 🧗 외부활동 / 대회
-* SW Maestro 8기
-* Best of The Best 9기
-* ...
+## 🧗 외부활동
+* [SW Maestro 8기](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/SW%20Maestro%208%EA%B8%B0%20d1ad4c5b2214413d8217dbfcfe6affcc.md)
+* [BEST OF THE BEST 9기](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/BEST%20OF%20THE%20BEST%209%EA%B8%B0%20f9f09349dae1482c8513ef33bcebda7d.md)
+
+## 🎐대회
+* [2020 오픈소스 컨트리뷰트톤](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2020%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8%ED%86%A4%2027976a7d9e0d48cf8963e25c8e1f4db6.md)
+* [2019 네이버 겨울 핵데이](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2019%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EA%B2%A8%EC%9A%B8%20%ED%95%B5%EB%8D%B0%EC%9D%B4%20c4d1a01040284a01b9a16dfaec16d657.md)
+* [2018 국방부 공개SW 해커톤](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2018%20%EA%B5%AD%EB%B0%A9%EB%B6%80%20%EA%B3%B5%EA%B0%9CSW%20%ED%95%B4%EC%BB%A4%ED%86%A4%20d5dfbd0649a743c7adfbbb43cd57d296.md)
+* [2017 오픈소스 컨트리뷰트톤](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2020%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8%ED%86%A4%2027976a7d9e0d48cf8963e25c8e1f4db6.md)
+* [2017 한림대학교 LINK+ 캡스톤디자인 대회](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2017%20LINK%2B%20%EC%82%AC%EC%97%85%EB%8B%A8%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%8C%80%ED%9A%8C%204e038839ad6e443485b630f4c6f5067c.md)
 
 ---
 
