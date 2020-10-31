@@ -1,19 +1,17 @@
 # SW Maestro 8기
 
-사용한 기술: 서비스 개발, 소프트웨어공학, 협업
-활동기간: 2017/08/01 → 2017/12/01
+*2017/08/01 → 2017/12/01*
+*한국정보산업연합회*
+
+> 사용한 기술
+- 서비스 개발
+- 소프트웨어공학
+- 협업
 
 [SW마에스트로](http://swmaestro.org/user/main.do;jsessionid=53D6A7318E8E0F744C1CCDE579CA710D)
 
-## 소프트웨어 마에스트로
 
-*한국정보산업연합회*
-
-선발규모 : 100명
-
-### 사업 소개
-
-![SW%20Maestro%208%E1%84%80%E1%85%B5%20d1ad4c5b2214413d8217dbfcfe6affcc/Untitled.png](SW%20Maestro%208%E1%84%80%E1%85%B5%20d1ad4c5b2214413d8217dbfcfe6affcc/Untitled.png)
+[SW마에스트로](http://swmaestro.org/user/main.do;jsessionid=53D6A7318E8E0F744C1CCDE579CA710D)
 
 ### 활동
 
