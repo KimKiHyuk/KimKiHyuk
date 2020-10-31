@@ -10,8 +10,8 @@
 - Microsoft .NET Contributor
 - ㈜mycampus Mobile개발 - 프리랜서
 - ㈜Fetching Backend 개발 - 프리랜서
-- 사이버사령부 .NET 개발 - SW개발병
-- Operating System lab - 학부 연구생
+- (軍)사이버사령부 .NET Client 개발 - SW개발병
+- 한림대학교 운영체제 연구실 - 학부 연구생
 
 ### 연락처
 
@@ -33,8 +33,8 @@ Email: keyhyuk.kim@gmail.com
 
 ## 🎓 교육
 
-> **BEST OF THE BEST (한국정보기술연구원)**
-
+### BEST OF THE BEST (한국정보기술연구원)
+---
 *2020.07 ~ 현재*
 
 *보안제품개발트랙 9기*
@@ -44,8 +44,8 @@ Email: keyhyuk.kim@gmail.com
 - 네트워크, OS 등 CS 기초에 대해 공부
 - 소프트웨어 보안, 클라우드 보안, 네트워크 보안등에 대해 공부
 
-> **소프트웨어 마에스트로 (**정보통신산업진흥원**)**
-
+### 소프트웨어 마에스트로 (정보통신산업진흥원)
+---
 *2017.08 ~ 2017.12*
 
 *소프트웨어 마에스트로 8기* 
@@ -55,16 +55,16 @@ Email: keyhyuk.kim@gmail.com
 - 네트워크, OS 등 CS 기초에 대해 공부
 - 소프트웨어 개발 방법론에 관련된 내용 학습 및 실제 프로젝트에 적용
 
-> **Griffith University, Gold coast, Australia**
-
+### Griffith University, Gold coast, Australia
+---
 *2016.12 ~ 2017.02*
 
-(해외교육 장학생) Game AI 과정 수료
+* (해외교육 장학생) Game AI 과정 수료
 
 - Unity programming(C#)를 활용한 장애물 회피 3D 게임 개발
 
-> **한림대학교**
-
+### 한림대학교
+---
 *2015 ~ 2021 (졸업예정)*
 
 - 평점 평균 — 3.89 / 4.5
@@ -72,12 +72,11 @@ Email: keyhyuk.kim@gmail.com
 - 학술동아리 C.愛.랑 임베디드 개발팀장
 - 네트워크, OS, 프로그래밍, 머신러닝 등 CS 전반에 걸친 학부수준의 내용 학습
 
----
 
 ## 💼 개발 경력
 
-> **(주) 마이캠퍼스 (프리랜서) - 모바일 앱 개발**
-
+### (주) 마이캠퍼스 (프리랜서) - 모바일 앱 개발
+---
 *2020.04~2020.07*
 
 전통시장에서 사용하는 Flutter 주문관리 Android / IOS 앱 개발 
@@ -90,8 +89,8 @@ Email: keyhyuk.kim@gmail.com
 
     [매장 주문 관리 모바일 앱](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EB%A7%A4%EC%9E%A5%20%EC%A3%BC%EB%AC%B8%20%EA%B4%80%EB%A6%AC%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20e4bed09b6b534d68b61bf3387f71534c.md)
 
-> **(주) Fetching (프리랜서) - Backend 개발**
-
+### (주) Fetching (프리랜서) - Backend 개발
+---
 *2019.12~2020.05*
 
 최저가 상품 검색을 위한 Python Django 크롤러 및 REST API 개발
@@ -105,8 +104,8 @@ Email: keyhyuk.kim@gmail.com
 
     [최저가 상품 검색을 위한 백엔드 개발](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%B5%9C%EC%A0%80%EA%B0%80%20%EC%83%81%ED%92%88%20%EA%B2%80%EC%83%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%2012d314399f2b472dbc1a4789334201c0.md)
 
-> **국군사이버사령부 (SW개발병) - PC 클라이언트 개발**
-
+### 국군사이버사령부 (SW개발병) - PC 클라이언트 개발
+---
 *2018.03~2019.09*
 
 .NET기반 엔드포인트 보안 소프트웨어 개발
@@ -120,8 +119,8 @@ Email: keyhyuk.kim@gmail.com
 
     [윈도우 엔드포인트 보안 소프트웨어](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%9C%88%EB%8F%84%EC%9A%B0%20%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EB%B3%B4%EC%95%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%2007691d3c56564cb8a800fee090678875.md)
 
-> **한림대학교 운영체제 연구실 (학부연구생)**
-
+### 한림대학교 운영체제 연구실 (학부연구생)
+---
 *2016.06~2017.08*
 
 - **주요성과**
@@ -137,32 +136,30 @@ Email: keyhyuk.kim@gmail.com
 
     [손가락을 이용한 에어 마우스](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%97%90%EC%96%B4%20%EB%A7%88%EC%9A%B0%EC%8A%A4%20aab562ab4ea84767907f7968b9994149.md)
 
----
 
 ## 🏆 수상
 
-> 2020 오픈소스 컨트리뷰트톤 .NET Core 가비아 기업후원상
-
+### 2020 오픈소스 컨트리뷰트톤 .NET Core 가비아 기업후원상
+---
 - Apache spark for .NET SimpleWorker 유닛 테스트 개발
 - Apache spark for .NET Spark version 단위로 테스트 가능하도록 수정
 - .NET Runtime System.Text.Json 테스트 커버리지 향상
 
-> 2018 군장병 오픈소스 해커톤 공군참모총장상
-
+### 2018 군장병 오픈소스 해커톤 공군참모총장상
+---
 - 뜀걸음시 심장마비를 예방하는 임베디드 소프트웨어 개발
 - 아두이노 센서 프로그래밍
 
-> 2018 오픈소스 컨트리뷰트톤 linux kernel perf / uftrace 우수상
-
+### 2018 오픈소스 컨트리뷰트톤 linux kernel perf / uftrace 우수상
+---
 - 빌드시스템을 CMake로 개선 시도
 
-> 2017 한림대학교 산학협력단 캡스톤 디자인 동상
-
+### 2017 한림대학교 산학협력단 캡스톤 디자인 동상
+---
 - 화재발생 상황에서 최적의 건물 대피 경로를 안내하는 임베디드 시스템 개발
 - Zigbee mesh network 구현
 - 대피 경로 추천 알고리즘 개발
 
----
 
 ## 📘포트폴리오
 * [윈도우 엔드포인트 보안 솔루션](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%9C%88%EB%8F%84%EC%9A%B0%20%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EB%B3%B4%EC%95%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%2007691d3c56564cb8a800fee090678875.md)
@@ -176,7 +173,7 @@ Email: keyhyuk.kim@gmail.com
 * [Opencv 가위바위보 모바일 게임](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20Hyper-v%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EA%B5%AC%EC%B6%95%20d7b45eae68a74cd384d4346cbe0c0f98.md)
 * [안드로이드 파일관리 매니저](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%8C%8C%EC%9D%BC%EA%B4%80%EB%A6%AC%20%EB%A7%A4%EB%8B%88%EC%A0%80%202b4e64cb34194e9aaeee69881f85bbfd.md)
 * [Opencv 손가락을 이용한 에어마우스](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%97%90%EC%96%B4%20%EB%A7%88%EC%9A%B0%EC%8A%A4%20aab562ab4ea84767907f7968b9994149.md)
----
+
 
 ## 🧗 외부활동
 * [SW Maestro 8기](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/SW%20Maestro%208%EA%B8%B0%20d1ad4c5b2214413d8217dbfcfe6affcc.md)
@@ -189,12 +186,10 @@ Email: keyhyuk.kim@gmail.com
 * [2017 오픈소스 컨트리뷰트톤](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2020%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8%ED%86%A4%2027976a7d9e0d48cf8963e25c8e1f4db6.md)
 * [2017 한림대학교 LINK+ 캡스톤디자인 대회](https://github.com/KimKiHyuk/KimKiHyuk/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2017%20LINK%2B%20%EC%82%AC%EC%97%85%EB%8B%A8%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%8C%80%ED%9A%8C%204e038839ad6e443485b630f4c6f5067c.md)
 
----
 
 ## ❤️ 오픈소스 Contribution
-
-> **Apache spark for .NET**
-
+### Apache spark for .NET
+---
 인메모리 컴퓨팅 프레임워크 Apache spark를 .NET에서 사용할 수 있도록 하는 프로젝트
 
 - 대표적인 Pull-request
@@ -208,8 +203,8 @@ Email: keyhyuk.kim@gmail.com
 
 [dotnet/spark](https://github.com/dotnet/spark)
 
-> **.NET Runtime**
-
+### NET Runtime
+---
 .NET framework의 코어 모듈을 개발하는 프로젝트
 
 - 대표적인 Pull-request
@@ -223,7 +218,6 @@ Email: keyhyuk.kim@gmail.com
 
 [dotnet/runtime](https://github.com/dotnet/runtime)
 
----
 
 ## 📔 개인 블로그
 
