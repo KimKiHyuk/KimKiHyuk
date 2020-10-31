@@ -6,10 +6,6 @@
 > 사용한 기술
 - 서비스 개발
 - 소프트웨어공학
-- 협업
-
-[SW마에스트로](http://swmaestro.org/user/main.do;jsessionid=53D6A7318E8E0F744C1CCDE579CA710D)
-
 
 [SW마에스트로](http://swmaestro.org/user/main.do;jsessionid=53D6A7318E8E0F744C1CCDE579CA710D)
 
