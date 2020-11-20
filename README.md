@@ -6,8 +6,8 @@
 ### 💻 Work Experience
 * between jobs (🔍 💼)
 * Flutter Mobile App developer - Mycampus (freelancer)  *2020.04 ~ 2020.07*
-* Python crawler, backend developer - Fetching (freelancer)  *2019.12 ~ 2020.05*
-* C#, .NET Client developer - Republic of Korea Cyber Command (sergeant) *2018.03 ~ 2019.10*
+* Python data, backend developer - Fetching (freelancer)  *2019.12 ~ 2020.05*
+* .NET client developer - Republic of Korea Cyber Command (sergeant) *2018.03 ~ 2019.10*
 
 ### 🎓 Education
 * BEST of the BEST 9th **[Cyber Security]**
