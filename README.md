@@ -17,7 +17,7 @@
 
 
 ### Resume
-📃 Resume(KOR) - https://www.notion.so/7633695417d8400782e387c863eaa97b
+📃 Resume(KOR) - keyhyuk.kim
 
 ### Linked-in
 👔 Linked-in(KOR) - https://www.linkedin.com/in/kihyuk-kim
