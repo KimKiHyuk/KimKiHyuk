@@ -17,7 +17,7 @@
 
 
 ### Resume
-📃 Resume(KOR) - keyhyuk.kim
+📃 Resume(KOR) - https://keyhyuk.kim/
 
 ### Linked-in
 👔 Linked-in(KOR) - https://www.linkedin.com/in/kihyuk-kim
