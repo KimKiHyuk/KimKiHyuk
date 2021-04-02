@@ -1,6 +1,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KimKiHyuk)
 ### Key Kim - Software Developer
-* contact : keyhyuk.kim@gmail.com
+* contact : developer@keyhyuk.kim
 #### Enjoy learning new things!
 
 ### 💻 Work Experience
