@@ -5,9 +5,9 @@
 
 ### 💻 Work Experience
 * DevOps & MLOps Engineer - NeuralWorks 
-* Cross-platform Mobile App developer - Mycampus *2020.04 ~ 2020.07*
-* Data, web backend software developer - Fetching  *2019.12 ~ 2020.05*
-* Security, Client software developer - Republic of Korea Cyber Command *2018.03 ~ 2019.10*
+* Flutter Mobile App developer - Mycampus *2020.04 ~ 2020.07*
+* Scrapy, Django software developer - Fetching  *2019.12 ~ 2020.05*
+* .NET Windows security software developer - Republic of Korea Cyber Command *2018.03 ~ 2019.10*
 
 ### 🎓 Education
 * BEST of the BEST 9th **[Cyber Security]**
