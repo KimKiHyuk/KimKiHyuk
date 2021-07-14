@@ -32,7 +32,8 @@
 * Provisioning infra using Iac (Terraform, Ansible)
 * CI/CD pipeline (Github actions)
 * GitOps based CI/CD pipeline
-* Reduce deployment time via spliting components
+* Optimize docker image (multistage, cache)
+* Container deployment experience (AWS ECS Fargate, docker-compose, k8s)
 * Event based Logging & Alert System (Slack, aws cloud watch)  
 
 ### 🔨 Client, Frontend
