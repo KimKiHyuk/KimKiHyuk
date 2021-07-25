@@ -18,21 +18,31 @@
 ## Development Experience
 
 ### 🔨 Backend
-* Implement logic using AOP, Dependency Injection, and design patterns(GOF)
-* Repository-Service pattern (Controller, Service, Repository, DTO) 
-* JWT based Auth system
-* 100+ RestFul API design
+* Backend Framework
+  * Node.js (Nest.js, Express.js)
+  * FastAPI
+  * Django
+* System Design
+  * Scalable Stateful system design (Nest.js, Websocket, Redis pub/sub)
+  * Scalable Stateless System design (FastAPI, Nest.js, Redis)
+  * Job Queue based Machine learning system design (RabbitMQ, FastAPI)
+  * Inference system design (K8s, FastAPI)
+* Design pattern
+  * Repository-Service pattern design (Controller, Service, Repository, DTO)
+  * MVC Pattern design
+* Authentication
+  * JWT based Auth system design
+* Database
+  * RDBMS HA (AWS Aurora MYSQL)
+  * NO-SQL HA (Mongodb replicaset)
+* RestFul API desgin
 * Unit Test
-* Realtime event system (Websocket)
-* Scalable Stateful system design & implement (Nest.js, Websocket, Redis pub/sub)
-* Job Queue based Machine learning system design & implement (RabbitMQ, FastAPI)
-* Inference system design & implement (K8s, FastAPI)
 
 ### 🔨 DevOps
 * Provisioning infra using Iac (Terraform, Ansible)
 * CI/CD pipeline (Github actions)
 * GitOps based CI/CD pipeline
-* Optimize docker image (multistage, cache)
+* Optimize to build docker image
 * Container deployment experience (AWS ECS Fargate, docker-compose, k8s)
 * Event based Logging & Alert System (Slack, aws cloud watch)  
 
