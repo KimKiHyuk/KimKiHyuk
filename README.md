@@ -41,7 +41,7 @@
 ### 🔨 DevOps
 * Provisioning infra using Iac (Terraform, Ansible)
 * CI/CD pipeline (Github actions)
-* GitOps based CI/CD pipeline
+* Git branch based CI/CD pipeline
 * Optimize to build docker image
 * Container deployment experience (AWS ECS Fargate, docker-compose, k8s)
 * Event based Logging & Alert System (Slack, aws cloud watch)  
