@@ -1,7 +1,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KimKiHyuk)
 ### Key Kim - Software Developer
 * contact : developer@keyhyuk.kim
-#### Enjoy learning new things!
 
 ### 💻 Work Experience
 * DevOps & Backend Engineer - NeuralWorks 
@@ -22,15 +21,12 @@
   * Node.js (Nest.js, Express.js)
   * FastAPI
   * Django
+  * .NET Core
 * System Design
   * Scalable Stateful system design (Nest.js, Websocket, Redis pub/sub)
   * Scalable Stateless System design (FastAPI, Nest.js, Redis)
   * Job Queue based Machine learning system design (RabbitMQ, FastAPI)
   * Inference system design (K8s, FastAPI)
-* Design pattern
-  * Repository-Service pattern design (Controller, Service, Repository, DTO)
-  * MVC Pattern design
-* Authentication
   * JWT based Auth system design
 * Database
   * RDBMS HA (AWS Aurora MYSQL)
@@ -44,14 +40,13 @@
 * Git branch based CI/CD pipeline
 * Optimize to build docker image
 * Container deployment experience (AWS ECS Fargate, docker-compose, k8s)
-* Event based Logging & Alert System (Slack, aws cloud watch)  
+* Loggging (fluentbit, aws cloud watch)
 
 ### 🔨 Client, Frontend
 * .NET based C# windows security client software (WPF, xaml, MVVM pattern, C#, F#)
 * Windows minifilter driver for hooking system call (C++, WDM, Windows7) 
-* Crossplatform Mobile app service (Flutter)
+* Crossplatform Mobile app (Flutter)
 * SPA, SSR node.js web service (Vue.js, Nuxt.js)
-
 
 
 ### Linked-in
