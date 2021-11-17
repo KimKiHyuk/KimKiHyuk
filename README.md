@@ -3,7 +3,7 @@
 * contact : developer@keyhyuk.kim
 
 ### 💻 Work Experience
-* DevOps & Backend Engineer - NeuralWorks 
+* Dev/MLOps & Backend Engineer - NeuralWorks 
 * Flutter Mobile App developer - Mycampus *2020.04 ~ 2020.07*
 * Scrapy, Django software developer - Fetching  *2019.12 ~ 2020.05*
 * Windows .NET client software developer - Republic of Korea Cyber Command *2018.03 ~ 2019.10*
@@ -17,27 +17,31 @@
 ## Development Experience
 
 ### 🔨 Backend
-* Backend Framework
+* Stack
   * Node.js (Nest.js, Express.js)
   * FastAPI
   * Django
   * .NET Core
+  * RabbitMQ
+  * Redis
+  * Docker
+  * k8s
 * System Design
-  * Scalable Stateful system design (Nest.js, Websocket, Redis pub/sub)
-  * Scalable Stateless System design (FastAPI, Nest.js, Redis)
-  * Job Queue based Machine learning system design (RabbitMQ, FastAPI)
-  * Inference system design (K8s, FastAPI)
+  * Websocket service design
+  * REST API service design
+  * Job Queue, container based Machine learning system design
+  * Model Inference system design
   * JWT based Auth system design
-* Database
-  * RDBMS HA (AWS Aurora MYSQL)
-  * NO-SQL HA (Mongodb replicaset)
-* RestFul API desgin
-* Unit Test
+  * CRUD web service design
+
+* Test
+  * Unit test (Jest, XUnit)
+  * Stress test (Vegeta, Jmeter)
+  * E2E test
 
 ### 🔨 DevOps
 * Provisioning infra using Iac (Terraform, Ansible)
-* CI/CD pipeline (Github actions)
-* Git branch based CI/CD pipeline
+* CI/CD pipeline
 * Optimize to build docker image
 * Container deployment experience (AWS ECS Fargate, docker-compose, k8s)
 * Loggging (fluentbit, aws cloud watch)
