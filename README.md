@@ -27,10 +27,10 @@
   * Docker
   * k8s
 * System Design
-  * Websocket service design
-  * REST API service design
   * Job Queue, container based Machine learning system design
   * Model Inference system design
+  * REST API service design
+  * Websocket service design
   * JWT based Auth system design
   * CRUD web service design
 
