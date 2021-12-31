@@ -1,14 +1,16 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KimKiHyuk)
-### Key Kim - Software Developer
-* contact : developer@keyhyuk.kim
+# Key Kim - Software Developer
+* E-mail : developer@keyhyuk.kim
+* Linked-in : https://www.linkedin.com/in/kihyuk-kim
 
-### 💻 Work Experience
-* Dev/MLOps & Backend Engineer - NeuralWorks 
-* Flutter Mobile App developer - Mycampus *2020.04 ~ 2020.07*
-* Scrapy, Django software developer - Fetching  *2019.12 ~ 2020.05*
-* Windows .NET client software developer - Republic of Korea Cyber Command *2018.03 ~ 2019.10*
+##  Work Experience
+* Server Engineer - Daangn market (*2022.01 ~ present*) - [Full-time]
+* DevOps & Backend Engineer - NeuralWorks (*2021.01 ~ 2021.12*) - [Full-time]
+* Flutter Mobile App developer - Mycampus (*2020.04 ~ 2020.07*) - [Part-time]
+* Scrapy, Django software developer - Fetching  (*2019.12 ~ 2020.05*) - [Part-time]
+* Windows .NET client software developer - Republic of Korea Cyber Command (*2018.03 ~ 2019.10*) - [Full-time]
 
-### 🎓 Education
+## Education
 * BEST of the BEST 9th **[Cyber Security]**
 * Software Maestro 8th  **[Computer science]**
 * Griffith Univerity Gold Coast campus in Australia **[Game AI Course]**
@@ -16,42 +18,61 @@
 
 ## Development Experience
 
-### 🔨 Backend
-* Stack
-  * Node.js (Nest.js, Express.js)
+### Backend
+---
+* Tools
+  * Node.js (Nest.js)
   * FastAPI
   * Django
   * .NET Core
   * RabbitMQ
   * Redis
-  * Docker
-  * k8s
-* System Design
-  * Job Queue, container based Machine learning system design
-  * Model Inference system design
-  * REST API service design
-  * Websocket service design
-  * JWT based Auth system design
-  * CRUD web service design
+  * MongoDB
+  * MySQL
 
-* Test
+* System Design / Experience
+  * Job Queue, container based Machine learning system design
+  * Machine learning model inference system design
+  * REST API design
+  * Redis pub/sub based Websocket service design
+  * JWT based auth system design
+  * CRUD web service design
+  * Scalable backend design
   * Unit test (Jest, XUnit)
   * Stress test (Vegeta, Jmeter)
   * E2E test
 
-### 🔨 DevOps
-* Provisioning infra using Iac (Terraform, Ansible)
-* CI/CD pipeline
-* Optimize to build docker image
-* Container deployment experience (AWS ECS Fargate, docker-compose, k8s)
-* Loggging (fluentbit, aws cloud watch)
+### DevOps
+---
+* Tools
+  * Terraform
+  * Ansible
+  * Packer
+  * Automation script (python, bash)
+  * Docker
+  * Kubernetes
 
-### 🔨 Client, Frontend
-* .NET based C# windows security client software (WPF, xaml, MVVM pattern, C#, F#)
-* Windows minifilter driver for hooking system call (C++, WDM, Windows7) 
-* Crossplatform Mobile app (Flutter)
-* SPA, SSR node.js web service (Vue.js, Nuxt.js)
+* System Design / Experience
+  * AWS cloud resource management using IaC (Terraform) 
+  * Github actions CI/CD pipeline design (github actions API)
+  * Container based infrastructure design (AWS ECS Fargate, docker-compose, kubernetes)
+  * Serverless data pipeline design (AWS Lambda, step functions)
+  * Loggging, alert system design (slack API, aws cloud watch)
 
+### Frontend
+---
+* Tools
+  * Vue.js
+  * Flutter
+  * .NET
+  * WPF
+* System Design / Experience
+  * windows security client software (WPF, xaml, C#, F#)
+  * Traditional market order magement mobile application (Flutter, Dart)
+  * SPA, SSR web service (Vue.js, Nuxt.js)
 
-### Linked-in
-👔 Linked-in(KOR) - https://www.linkedin.com/in/kihyuk-kim
+### ETC
+---
+* Windows minifilter driver for hooking system call and protecting processes and DLL files (C++, WDM, Windows7) 
+* Linux character device driver for data encryption to exchange user-space data and kernel-space data
+* openCV object detection and OCR application, porting in Android using NDK 
