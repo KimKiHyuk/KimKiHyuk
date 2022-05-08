@@ -20,16 +20,6 @@
 
 ### Backend
 ---
-* Tools
-  * Node.js (Nest.js)
-  * FastAPI
-  * Django
-  * .NET Core
-  * RabbitMQ
-  * Redis
-  * MongoDB
-  * MySQL
-
 * System Design / Experience
   * Job Queue, container based Machine learning system design
   * Machine learning model inference system design
@@ -44,14 +34,6 @@
 
 ### DevOps
 ---
-* Tools
-  * Terraform
-  * Ansible
-  * Packer
-  * Automation script (python, bash)
-  * Docker
-  * Kubernetes
-
 * System Design / Experience
   * AWS cloud resource management using IaC (Terraform) 
   * Github actions CI/CD pipeline design (github actions API)
@@ -61,11 +43,6 @@
 
 ### Frontend
 ---
-* Tools
-  * Vue.js
-  * Flutter
-  * .NET
-  * WPF
 * System Design / Experience
   * windows security client software (WPF, xaml, C#, F#)
   * Traditional market order magement mobile application (Flutter, Dart)
